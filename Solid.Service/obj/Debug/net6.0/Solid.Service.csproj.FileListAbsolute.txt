@@ -1,0 +1,31 @@
+C:\Users\user1\Desktop\צד שרת פרקטיקום\EmployeeServer\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\צד שרת פרקטיקום\EmployeeServer\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\צד שרת פרקטיקום\EmployeeServer\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\צד שרת פרקטיקום\EmployeeServer\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\צד שרת פרקטיקום\EmployeeServer\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\צד שרת פרקטיקום\EmployeeServer\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+C:\Users\user1\Desktop\צד שרת פרקטיקום\EmployeeServer\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+C:\Users\user1\Desktop\צד שרת פרקטיקום\EmployeeServer\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+C:\Users\user1\Desktop\צד שרת פרקטיקום\EmployeeServer\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\user1\Desktop\צד שרת פרקטיקום\EmployeeServer\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\user1\Desktop\צד שרת פרקטיקום\EmployeeServer\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CopyComplete
+C:\Users\user1\Desktop\צד שרת פרקטיקום\EmployeeServer\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+C:\Users\user1\Desktop\צד שרת פרקטיקום\EmployeeServer\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+C:\Users\user1\Desktop\צד שרת פרקטיקום\EmployeeServer\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+C:\Users\user1\Desktop\צד שרת פרקטיקום\EmployeeServer\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
+C:\אילי\תכנות\שנה ב\פרקטיקום\Employee.net\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+C:\אילי\תכנות\שנה ב\פרקטיקום\Employee.net\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+C:\אילי\תכנות\שנה ב\פרקטיקום\Employee.net\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+C:\אילי\תכנות\שנה ב\פרקטיקום\Employee.net\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+C:\אילי\תכנות\שנה ב\פרקטיקום\Employee.net\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+C:\אילי\תכנות\שנה ב\פרקטיקום\Employee.net\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+C:\אילי\תכנות\שנה ב\פרקטיקום\Employee.net\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\אילי\תכנות\שנה ב\פרקטיקום\Employee.net\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+C:\אילי\תכנות\שנה ב\פרקטיקום\Employee.net\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+C:\אילי\תכנות\שנה ב\פרקטיקום\Employee.net\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+C:\אילי\תכנות\שנה ב\פרקטיקום\Employee.net\Solid.Service\obj\Debug\net6.0\Solid.Service.sourcelink.json
+C:\אילי\תכנות\שנה ב\פרקטיקום\Employee.net\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CopyComplete
+C:\אילי\תכנות\שנה ב\פרקטיקום\Employee.net\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+C:\אילי\תכנות\שנה ב\פרקטיקום\Employee.net\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+C:\אילי\תכנות\שנה ב\פרקטיקום\Employee.net\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+C:\אילי\תכנות\שנה ב\פרקטיקום\Employee.net\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
